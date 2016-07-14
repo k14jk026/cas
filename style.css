@@ -1,0 +1,53 @@
+@CHARSET "windows-31j";
+
+body{
+	background-image:url("b089.jpg");
+}
+
+h1{
+
+}
+
+h2{
+
+}
+font{
+	font-size:20px;
+}
+font.login{
+	font-size:18px;
+}
+font.danger{
+	font-size:20px;
+	color:red;
+}
+font.time{
+	font-size:30px;
+
+}
+a{
+	font-size:18px;
+}
+table{
+	text-align:center;
+}
+th{
+	color:#ffffff;
+	background-color: #4169e1;
+}
+td{
+	background-color:white;
+}
+td.log{
+	background-image:url("b089.jpg");
+}
+table.uad{
+	background-image:url("b089.jpg");
+}
+th.uad{
+	background-image:url("b089.jpg");
+	color:black;
+}
+td.uad{
+
+}}
